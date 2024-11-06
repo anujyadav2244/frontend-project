@@ -11,7 +11,7 @@ A simple counter app built with HTML, CSS, and React. Users can increment or dec
 
 - **HTML**
 - **CSS**
-- **React**
+- **JS**
 
 ## Setup
 
