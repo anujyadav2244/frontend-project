@@ -23,7 +23,6 @@ A simple counter app built with HTML, CSS, and React. Users can increment or dec
     
 3. **Run the app:**
     `npm start`
-    Visit http://localhost:3000 to view the app.
 
 ## Future Improvements
 Add a reset button.
