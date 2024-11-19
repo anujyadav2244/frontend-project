@@ -1,6 +1,6 @@
 # Counter Application
 
-A simple counter app built with HTML, CSS, and React. Users can increment or decrement the counter value with buttons.
+A simple counter app built with HTML, CSS, and JS. Users can increment or decrement the counter value with buttons.
 
 ## Features
 
